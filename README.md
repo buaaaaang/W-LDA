@@ -1,5 +1,5 @@
 # 20201201-W-LDA
-&nbsp;&nbsp;This work was done on fall of 2020, in group study supervised by Prof.Chun of KAIST. You can see our PPT named "LDA and Wasserstein LDA" in official [lab site][lab-site].
+&nbsp;&nbsp;This work was done in fall of 2020, in a group study supervised by Prof. Chun at KAIST. You can see our PPT named "LDA and Wassestein LDA" on the officiall [lab site][lab-site].
 
 [lab-site]: https://chunhyonho.github.io/Group-study/Journal_club/
 
