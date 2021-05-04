@@ -7,4 +7,6 @@ This work was done in fall of 2020, in a group study supervised by Prof. Chun at
 
 [lab-site]: https://chunhyonho.github.io/Group-study/Journal_club/
 
-You can see more information on https://buaaaaang.github.io/machinelearning/2021/05/02/W-LDA.html.
+You can see more information on [my blog][my-blog].
+
+[my-blog]: https://buaaaaang.github.io/machinelearning/2021/05/02/W-LDA.html.
