@@ -1,5 +1,9 @@
 # 20201201-W-LDA
-&nbsp;&nbsp;This work was done in fall of 2020, in a group study supervised by Prof. Chun at KAIST. You can see our PPT named "LDA and Wassestein LDA" on the official [lab site][lab-site].
+This is implementation of following paper:\
+Nan, F., Ding, R., Nallapati, R., & Xiang, B. (2019). Topic Modeling with Wasserstein Autoencoders.
+
+
+This work was done in fall of 2020, in a group study supervised by Prof. Chun at KAIST. You can see our PPT named "LDA and Wassestein LDA" on the official [lab site][lab-site].
 
 [lab-site]: https://chunhyonho.github.io/Group-study/Journal_club/
 
