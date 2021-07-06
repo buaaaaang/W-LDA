@@ -9,4 +9,4 @@ This work was done in fall of 2020, in a group study supervised by Prof. Chun at
 
 You can see more information on [my blog][my-blog].
 
-[my-blog]: https://buaaaaang.github.io/machinelearning/2021/05/02/W-LDA.html.
+[my-blog]: https://buaaaaang.github.io/machinelearning/2021/05/02/W-LDA.html
