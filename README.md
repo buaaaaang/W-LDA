@@ -1,4 +1,4 @@
-# 20201201-W-LDA
+# W-LDA
 This is implementation of following paper:\
 Nan, F., Ding, R., Nallapati, R., & Xiang, B. (2019). Topic Modeling with Wasserstein Autoencoders.
 
