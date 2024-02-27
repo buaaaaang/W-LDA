@@ -1,6 +1,6 @@
 # W-LDA
-This is implementation of following paper:\
-Nan, F., Ding, R., Nallapati, R., & Xiang, B. (2019). Topic Modeling with Wasserstein Autoencoders.
+This is implementation of following paper:
+> Nan, F., Ding, R., Nallapati, R., & Xiang, B. (2019). Topic Modeling with Wasserstein Autoencoders.
 
 &nbsp;&nbsp;This work was counducted during the fall of 2020 as part of a group study supervised by Prof. Chun at KAIST. Visit official [lab site][lab-site] for our presentation titled "LDA and Wassestein LDA".
 
